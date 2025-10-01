@@ -1,0 +1,5 @@
+pandas
+matplotlib
+scikit-learn
+python-telegram-bot==20.3
+plotly
